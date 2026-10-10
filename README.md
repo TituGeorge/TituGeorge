@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Titu George
+ 
+Head of Development. I build trading execution and wealth-tech systems in **Go, Python and ++**, usually end to end, from architecture to launch and handover.
+ 
+My production work lives in private company repositories, so the contribution graph below is the best public view of it. Two platforms I designed and built:
+ 
+**Algo execution platform for prop desks** (Go, Python, Angular)
+- Automated trading platform that lets prop firms build, schedule and run their own strategies.
+- Smart limit-order execution designed to get good fills on large orders.
+- Multi-broker, colocated connectivity, with live paper trading.
+- Lean and fault-tolerant: dozens of strategies run in parallel on small cloud instances.
+  
+**Model-portfolio investing platform** (smallcase-style)
+- Built and launched in about 3 months, with smallcase Gateway integration, its own rebalancing engine, eNACH mandates, custom pricing, admin workflows, and offline flows for bonds and mutual funds.
+- Handed over to an engineer I recruited, and it has run fully automated since.
 
-<!--
-**TituGeorge/TituGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**LinkedIn:** https://www.linkedin.com/in/titugeorge/
+ 
