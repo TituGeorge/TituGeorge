@@ -10,7 +10,7 @@ My production work lives in private company repositories, so the contribution gr
 - Multi-broker, colocated connectivity, with live paper trading.
 - Lean and fault-tolerant: dozens of strategies run in parallel on small cloud instances.
   
-**Model-portfolio investing platform** (smallcase-style)
+**Model-portfolio investing platform**
 - Built and launched in about 3 months, with multiple broker Gateway integrations, its own rebalancing engine, eNACH mandates, custom pricing, admin workflows, and offline flows for bonds and mutual funds.
 - Handed over to an engineer I recruited, and it has run fully automated since.
 
